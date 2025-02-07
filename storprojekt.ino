@@ -1,4 +1,10 @@
-
+/* 
+* Name: Spynal
+* Author: Simon Lendvai
+* Date: 2025-02-07
+* Description: This project uses a ADXL345 accelerometer to determin the angle a person is sitting and activates
+* a motor if a certain threshold is passed.
+*/
 
 // Import libraries
 #include <Wire.h>
